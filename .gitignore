@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/debug
+/release
+/x64/Debug
+/2dpainting.vcxproj.user
+/2dpainting.vcxproj.filters
